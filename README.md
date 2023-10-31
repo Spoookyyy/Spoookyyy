@@ -1,6 +1,6 @@
 # Hello, I'm Spookyy! 👋
 
-I'm a passionate software developer interesting in learning more.
+I'm a passionate software developer interested in making games and backends.
 
 ## 🔭 Technologies & Tools
 
