@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hello, I'm Spookyy! 👋
 
-<!--
-**Spoookyyy/Spoookyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software developer interesting in learning more.
 
-Here are some ideas to get you started:
+## 🔭 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Web Frameworks**: Next.js, Express.js, Nest.js
+- **Database**: MongoDB
+- **Languages**: C++, Luau, TypeScript
+
+## 💼 Projects
+
+- **[QuestionPrompter](https://github.com/Spookyy/QuestionPrompter)**: A tool to assist in quizzing and enhancing study techniques.
+ **[GLUU](https://github.com/Spoookyyy/GLLU)**: A tool to convert GLSL to LUAU.
+
+## 📫 How to Reach Me
+
+- Personal Website: [carley.wtf](https://carley.wtf)
+- Business Email: spooky@spooky.wtf
+
+## ⭐ GitHub Stats
+
+[![Spookyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Spookyy&show_icons=true&theme=radical)](https://github.com/Spookyy)
+
+
