@@ -11,7 +11,7 @@ I'm a passionate software developer interesting in learning more.
 ## 💼 Projects
 
 - **[QuestionPrompter](https://github.com/Spookyy/QuestionPrompter)**: A tool to assist in quizzing and enhancing study techniques.
- **[GLUU](https://github.com/Spoookyyy/GLLU)**: A tool to convert GLSL to LUAU.
+- **[GLUU](https://github.com/Spoookyyy/GLLU)**: A tool to convert GLSL to LUAU.
 
 ## 📫 How to Reach Me
 
