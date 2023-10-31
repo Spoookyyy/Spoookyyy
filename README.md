@@ -19,6 +19,7 @@ I'm a passionate software developer interesting in learning more.
 
 - Personal Website: [carley.wtf](https://carley.wtf)
 - Business Email: spooky@spooky.wtf
+- Discord: spookyi
 
 ## ⭐ GitHub Stats
 
