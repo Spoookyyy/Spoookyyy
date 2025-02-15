@@ -1,4 +1,4 @@
-# Hello, I'm Spookyy! 👋
+# Spoukyii
 
 I'm a passionate software developer interested in making games and backends.
 
